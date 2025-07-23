@@ -34,6 +34,6 @@ $ yarn test
 $ yarn test:cov
 ```
 
-## Stay in touch
 
-- Author - [Rafael Scariot](https://www.linkedin.com/in/rafaelscariot/)
+
+
